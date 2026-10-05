@@ -121,7 +121,7 @@ function App() {
         <div className="container cta-content">
           <h2>Meu futuro na tecnologia pode começar aqui</h2>
           <p>Conheça o curso Técnico em Desenvolvimento de Sistemas e prepare-se para o mercado que mais cresce no mundo</p>
-          <a href="https://cursos.sesisenai.org.br/cursos-tecnicos/tecnico-em-desenvolvimento-de-sistemas/8006" className="btn btn-large">Inscreva-se e saiba mais</a>
+          <a href="#" className="btn btn-large">Inscreva-se e saiba mais</a>
         </div>
       </section>
 
