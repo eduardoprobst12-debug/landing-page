@@ -1,4 +1,4 @@
-/* Reset e configurações gerais */
+
 * {
   margin: 0;
   padding: 0;
@@ -18,7 +18,7 @@
   margin: 0 auto;
 }
 
-/* Cabeçalho */
+
 .header {
   background: #004a8c;
   color: white;
@@ -59,7 +59,7 @@
   color: #87ceeb;
 }
 
-/* Seções */
+
 .section {
   padding: 3rem 0;
   background-color: #ffffff;
@@ -76,7 +76,7 @@
   color: #004a8c;
 }
 
-/* Hero */
+
 .hero {
   padding: 3rem 0;
   background: linear-gradient(to right, #e6f0f9, #d4e6f7);
@@ -127,13 +127,13 @@
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
-/* Conteúdo texto */
+
 .content-text p {
   margin-bottom: 1rem;
   font-size: 1.05rem;
 }
 
-/* Cards */
+
 .cards-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -170,7 +170,7 @@
   background: #d4e6f7;
 }
 
-/* Tecnologias */
+
 .tech-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
@@ -191,7 +191,7 @@
   background: #0066cc;
 }
 
-/* Áreas de atuação */
+
 .atuacao-list {
   list-style: none;
   max-width: 800px;
@@ -208,7 +208,7 @@
   border-bottom: none;
 }
 
-/* CTA */
+
 .cta {
   background: linear-gradient(135deg, #004a8c, #0066cc);
   color: white;
@@ -235,7 +235,7 @@
   background: #e6f0f9;
 }
 
-/* Rodapé */
+
 .footer {
   background: #1a1a1a;
   color: #ccc;
@@ -247,7 +247,7 @@
   margin-bottom: 0.5rem;
 }
 
-/* Responsividade */
+
 @media (max-width: 768px) {
   .hero-grid {
     grid-template-columns: 1fr;
